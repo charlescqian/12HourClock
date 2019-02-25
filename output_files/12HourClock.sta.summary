@@ -1,0 +1,389 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'BCDcount_mins:inst3|CARRY'
+Slack : -9.534
+TNS   : -74.011
+
+Type  : Slow 1100mV 85C Model Setup 'BCDCOUNT:inst|CARRY'
+Slack : -8.558
+TNS   : -74.920
+
+Type  : Slow 1100mV 85C Model Setup 'BCDCOUNT:inst|ClkFlag'
+Slack : -8.293
+TNS   : -71.989
+
+Type  : Slow 1100mV 85C Model Setup 'SW[9]'
+Slack : -6.460
+TNS   : -142.915
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -5.853
+TNS   : -144.091
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.442
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'BCDcount_mins:inst3|CARRY'
+Slack : 0.924
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'BCDCOUNT:inst|CARRY'
+Slack : 0.976
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'BCDCOUNT:inst|ClkFlag'
+Slack : 1.009
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'SW[9]'
+Slack : 1.978
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'BCDcount_mins:inst3|CARRY'
+Slack : -3.118
+TNS   : -24.878
+
+Type  : Slow 1100mV 85C Model Recovery 'BCDCOUNT:inst|CARRY'
+Slack : -2.522
+TNS   : -19.219
+
+Type  : Slow 1100mV 85C Model Recovery 'BCDCOUNT:inst|ClkFlag'
+Slack : -1.699
+TNS   : -13.451
+
+Type  : Slow 1100mV 85C Model Removal 'BCDCOUNT:inst|ClkFlag'
+Slack : 0.904
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'BCDCOUNT:inst|CARRY'
+Slack : 1.363
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'BCDcount_mins:inst3|CARRY'
+Slack : 2.128
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.538
+TNS   : -29.276
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'BCDCOUNT:inst|ClkFlag'
+Slack : -0.538
+TNS   : -8.096
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'BCDCOUNT:inst|CARRY'
+Slack : -0.538
+TNS   : -7.118
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'KEY[3]'
+Slack : -0.538
+TNS   : -6.928
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'BCDcount_mins:inst3|CARRY'
+Slack : -0.538
+TNS   : -6.910
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'KEY[2]'
+Slack : -0.538
+TNS   : -6.674
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'KEY[1]'
+Slack : -0.538
+TNS   : -6.574
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SW[9]'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'BCDcount_mins:inst3|CARRY'
+Slack : -9.599
+TNS   : -74.108
+
+Type  : Slow 1100mV 0C Model Setup 'BCDCOUNT:inst|CARRY'
+Slack : -8.556
+TNS   : -74.996
+
+Type  : Slow 1100mV 0C Model Setup 'BCDCOUNT:inst|ClkFlag'
+Slack : -8.426
+TNS   : -72.097
+
+Type  : Slow 1100mV 0C Model Setup 'SW[9]'
+Slack : -6.408
+TNS   : -142.133
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -5.968
+TNS   : -142.916
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.447
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'BCDcount_mins:inst3|CARRY'
+Slack : 0.877
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'BCDCOUNT:inst|CARRY'
+Slack : 0.914
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'BCDCOUNT:inst|ClkFlag'
+Slack : 1.045
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'SW[9]'
+Slack : 1.927
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'BCDcount_mins:inst3|CARRY'
+Slack : -3.071
+TNS   : -24.452
+
+Type  : Slow 1100mV 0C Model Recovery 'BCDCOUNT:inst|CARRY'
+Slack : -2.557
+TNS   : -19.529
+
+Type  : Slow 1100mV 0C Model Recovery 'BCDCOUNT:inst|ClkFlag'
+Slack : -1.756
+TNS   : -13.921
+
+Type  : Slow 1100mV 0C Model Removal 'BCDCOUNT:inst|ClkFlag'
+Slack : 0.929
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'BCDCOUNT:inst|CARRY'
+Slack : 1.389
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'BCDcount_mins:inst3|CARRY'
+Slack : 2.068
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.538
+TNS   : -30.173
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'BCDCOUNT:inst|ClkFlag'
+Slack : -0.538
+TNS   : -8.218
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'BCDCOUNT:inst|CARRY'
+Slack : -0.538
+TNS   : -7.041
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'BCDcount_mins:inst3|CARRY'
+Slack : -0.538
+TNS   : -6.708
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'KEY[1]'
+Slack : -0.538
+TNS   : -6.433
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'KEY[2]'
+Slack : -0.538
+TNS   : -6.430
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'KEY[3]'
+Slack : -0.538
+TNS   : -6.397
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SW[9]'
+Slack : 0.085
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'BCDcount_mins:inst3|CARRY'
+Slack : -4.180
+TNS   : -32.623
+
+Type  : Fast 1100mV 85C Model Setup 'BCDCOUNT:inst|CARRY'
+Slack : -3.864
+TNS   : -33.593
+
+Type  : Fast 1100mV 85C Model Setup 'BCDCOUNT:inst|ClkFlag'
+Slack : -3.688
+TNS   : -31.603
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -3.113
+TNS   : -53.467
+
+Type  : Fast 1100mV 85C Model Setup 'SW[9]'
+Slack : -2.554
+TNS   : -55.044
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'BCDCOUNT:inst|ClkFlag'
+Slack : 0.249
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'BCDCOUNT:inst|CARRY'
+Slack : 0.351
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'BCDcount_mins:inst3|CARRY'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'SW[9]'
+Slack : 1.008
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'BCDcount_mins:inst3|CARRY'
+Slack : -1.798
+TNS   : -14.354
+
+Type  : Fast 1100mV 85C Model Recovery 'BCDCOUNT:inst|CARRY'
+Slack : -1.486
+TNS   : -11.540
+
+Type  : Fast 1100mV 85C Model Recovery 'BCDCOUNT:inst|ClkFlag'
+Slack : -1.045
+TNS   : -8.320
+
+Type  : Fast 1100mV 85C Model Removal 'BCDCOUNT:inst|ClkFlag'
+Slack : 0.231
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'BCDCOUNT:inst|CARRY'
+Slack : 0.498
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'BCDcount_mins:inst3|CARRY'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'KEY[3]'
+Slack : -0.320
+TNS   : -2.699
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'KEY[1]'
+Slack : -0.296
+TNS   : -2.424
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.293
+TNS   : -3.736
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'KEY[2]'
+Slack : -0.279
+TNS   : -2.313
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SW[9]'
+Slack : -0.157
+TNS   : -2.448
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'BCDCOUNT:inst|ClkFlag'
+Slack : -0.040
+TNS   : -0.344
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'BCDcount_mins:inst3|CARRY'
+Slack : -0.022
+TNS   : -0.064
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'BCDCOUNT:inst|CARRY'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'BCDcount_mins:inst3|CARRY'
+Slack : -3.993
+TNS   : -31.137
+
+Type  : Fast 1100mV 0C Model Setup 'BCDCOUNT:inst|CARRY'
+Slack : -3.693
+TNS   : -32.250
+
+Type  : Fast 1100mV 0C Model Setup 'BCDCOUNT:inst|ClkFlag'
+Slack : -3.573
+TNS   : -30.708
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -2.804
+TNS   : -46.603
+
+Type  : Fast 1100mV 0C Model Setup 'SW[9]'
+Slack : -2.408
+TNS   : -51.741
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.190
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'BCDCOUNT:inst|ClkFlag'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'BCDCOUNT:inst|CARRY'
+Slack : 0.331
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'BCDcount_mins:inst3|CARRY'
+Slack : 0.351
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'SW[9]'
+Slack : 0.934
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'BCDcount_mins:inst3|CARRY'
+Slack : -1.751
+TNS   : -13.963
+
+Type  : Fast 1100mV 0C Model Recovery 'BCDCOUNT:inst|CARRY'
+Slack : -1.482
+TNS   : -11.536
+
+Type  : Fast 1100mV 0C Model Recovery 'BCDCOUNT:inst|ClkFlag'
+Slack : -1.096
+TNS   : -8.729
+
+Type  : Fast 1100mV 0C Model Removal 'BCDCOUNT:inst|ClkFlag'
+Slack : 0.296
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'BCDCOUNT:inst|CARRY'
+Slack : 0.528
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'BCDcount_mins:inst3|CARRY'
+Slack : 0.796
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'KEY[3]'
+Slack : -0.308
+TNS   : -2.611
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.292
+TNS   : -3.778
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'KEY[1]'
+Slack : -0.284
+TNS   : -2.353
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'KEY[2]'
+Slack : -0.265
+TNS   : -2.183
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SW[9]'
+Slack : -0.129
+TNS   : -1.604
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'BCDCOUNT:inst|ClkFlag'
+Slack : -0.015
+TNS   : -0.128
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'BCDcount_mins:inst3|CARRY'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'BCDCOUNT:inst|CARRY'
+Slack : 0.109
+TNS   : 0.000
+
+------------------------------------------------------------
